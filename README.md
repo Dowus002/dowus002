@@ -1,4 +1,6 @@
-#👋 Welcome to My GitHub!
+👋 Welcome to My GitHub!
+
+---
 
 #Hi, I'm Darryl Owusu-Ansah, an aspiring physician-scientist, biotech leader, and software engineer with a passion for innovation at the intersection of healthcare, technology, and AI.
 
